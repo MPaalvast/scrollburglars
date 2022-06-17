@@ -544,7 +544,7 @@ object {
 
 img,
 video {
-  max-width: 100%;
+  max-width: min(100%, 28rem);
   height: auto;
 }
 
